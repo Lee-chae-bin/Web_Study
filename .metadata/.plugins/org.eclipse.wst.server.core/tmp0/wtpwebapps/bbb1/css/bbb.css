@@ -1,0 +1,14 @@
+@charset "EUC-KR";
+@import url(bbb.css);
+
+/* header */
+.slider-list li{
+	background-repeat : no-repeat;
+	background-sixe : cover;
+	height : 1024px;
+	text-align : center;
+	width : 100%;
+}
+	.slider-list li.slide1{background-image:url(../images/bimbambomhd.png);}
+	.slider-list li.slide1{background-image:url(../images/bimbambomhd2.png);}
+	.slider-list li.slide1{background-image:url(../images/bimbambomhd3.png);}
